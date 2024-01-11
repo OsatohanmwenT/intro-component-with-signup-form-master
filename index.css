@@ -23,7 +23,6 @@ body{
     background: url("images/icon-error.svg") right 10px no-repeat;
 }
 .border:focus{
-    outline-color: var(--Red);
     border: 2px solid var(--Red);
 }
 .email::placeholder{
